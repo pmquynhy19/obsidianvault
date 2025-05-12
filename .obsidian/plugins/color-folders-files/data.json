@@ -1,0 +1,97 @@
+{
+  "styles": {
+    "1 NGOẠI": {
+      "backgroundColor": "#adf0ae",
+      "isBold": true,
+      "isItalic": false,
+      "applyToSubfolders": true,
+      "textColor": "#e40707"
+    },
+    "1 SẢN": {
+      "textColor": "#fbd650",
+      "backgroundColor": "#02539e",
+      "isBold": true,
+      "applyToSubfolders": true
+    },
+    "GHI_CHU": {
+      "backgroundColor": "#f06666",
+      "isBold": true,
+      "textColor": "#f7f3f3",
+      "applyToSubfolders": true
+    },
+    "TEMPLATES": {
+      "backgroundColor": "#0d0c0c",
+      "textColor": "#fafafa",
+      "isBold": true,
+      "applyToSubfolders": false
+    },
+    "Notion": {
+      "backgroundColor": "#000000",
+      "textColor": "#fafafa",
+      "isBold": true,
+      "applyToSubfolders": true
+    },
+    "NOTION": {
+      "backgroundColor": "#000000",
+      "textColor": "#ffffff",
+      "applyToSubfolders": true,
+      "isBold": true
+    },
+    "DAILYNOTE": {
+      "textColor": "#a21c35",
+      "backgroundColor": "#fed0d6",
+      "isBold": true,
+      "applyToSubfolders": true
+    },
+    "Đề thi": {
+      "textColor": "#0d6f6e",
+      "backgroundColor": "#cdeefa",
+      "isBold": true,
+      "applyToSubfolders": true
+    },
+    "PHỤ.md": {
+      "textColor": "#d9d5dd",
+      "backgroundColor": "#5a34b2",
+      "isBold": true,
+      "applyToSubfolders": true
+    },
+    "1 PHỤ": {
+      "backgroundColor": "#6e56a7",
+      "textColor": "#f7f4fb",
+      "isBold": true,
+      "applyToSubfolders": true
+    },
+    "0 MINDMAP": {
+      "backgroundColor": "#0617f9",
+      "textColor": "#ffffff",
+      "isBold": true
+    },
+    "NHI": {
+      "textColor": "#ffffff",
+      "backgroundColor": "#42f54e",
+      "isBold": true,
+      "applyToSubfolders": true
+    },
+    "ATTACHMENT": {
+      "backgroundColor": "#080707",
+      "textColor": "#ffffff",
+      "isBold": true
+    },
+    "ÔN TỐT NGHIỆP": {
+      "backgroundColor": "#fdbff5",
+      "textColor": "#ff14b5",
+      "isBold": true
+    }
+  },
+  "presets": {
+    "đen": {
+      "backgroundColor": "#0d0c0c",
+      "textColor": "#fafafa",
+      "isBold": true,
+      "applyToSubfolders": true
+    }
+  },
+  "presetOrder": [
+    "đen"
+  ]
+}

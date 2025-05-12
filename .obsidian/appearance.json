@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Border",
+  "textFontFamily": "Menlo,JetBrains Mono",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "heading-fonts",
+    "callout-modern",
+    "my_quote"
+  ]
+}

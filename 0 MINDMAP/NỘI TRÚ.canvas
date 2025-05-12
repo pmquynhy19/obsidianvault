@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"60ec1abe31bea22c","type":"group","x":-1040,"y":-1920,"width":1540,"height":558,"label":"FLOWWW!"},
+		{"id":"f1f72f5d17c9faee","type":"text","text":"FILE GỌN","x":230,"y":-1590,"width":250,"height":60,"color":"6"},
+		{"id":"456fdab2f5ff3fc6","type":"text","text":"ANKI","x":-20,"y":-1560,"width":250,"height":60,"color":"5"},
+		{"id":"dd51c90c2d5310e9","type":"text","text":"ĐỀ","x":-270,"y":-1530,"width":250,"height":60,"color":"4"},
+		{"id":"8906fba06f9a0c49","type":"text","text":"RAT","x":-520,"y":-1500,"width":250,"height":60,"color":"3"},
+		{"id":"6f150bf3cbf01dba","type":"file","file":"0 MINDMAP/NỘI TRÚ/IMG-20250502160855510.png","x":-1012,"y":-1900,"width":267,"height":400},
+		{"id":"48b4c999287a0afa","type":"text","text":"ĐỌC","x":-770,"y":-1472,"width":250,"height":60,"color":"2"},
+		{"id":"c281f12d23a7660e","type":"text","text":"ELEARNING","x":-1020,"y":-1442,"width":250,"height":60,"color":"1"},
+		{"id":"0a05380e8b601103","type":"file","file":"1 NGOẠI/NOTE/TRĨ.md","x":-343,"y":-929,"width":250,"height":60},
+		{"id":"7f137cae7612eef0","type":"file","file":"1 NGOẠI/NOTE/VIÊM RUỘT THỪA.md","x":-307,"y":-802,"width":277,"height":50,"color":"1"},
+		{"id":"e00797cc29752399","type":"file","file":"1 SẢN/RUBELLA.md","x":-155,"y":-281,"width":250,"height":60},
+		{"id":"095a626d59bcf095","type":"text","text":"C2","x":-440,"y":-281,"width":250,"height":60,"color":"1"},
+		{"id":"3dc3e0a76ddefb89","type":"text","text":"SẢN","x":-772,"y":-178,"width":250,"height":60},
+		{"id":"3a6cc281fb6cd078","type":"text","text":"ngoại","x":-772,"y":-620,"width":250,"height":60},
+		{"id":"2b6bd0ee504244a2","type":"file","file":"1 SẢN/Nhiễm trùng hậu sản.md","x":-155,"y":107,"width":335,"height":60,"color":"2"},
+		{"id":"c643a0b19f102ee9","type":"file","file":"1 SẢN/Vấn đề thường gặp hậu sản.md","x":-155,"y":-118,"width":415,"height":58,"color":"3"},
+		{"id":"fc54b4d885e69956","type":"file","file":"1 NGOẠI/NOTE/RÒ.md","x":-387,"y":-1042,"width":400,"height":50},
+		{"id":"0c8dd1e5f92fe078","type":"file","file":"1 NGOẠI/NOTE/VIÊM ĐƯỜNG MẬT.md","x":-280,"y":-560,"width":250,"height":60,"color":"1"},
+		{"id":"07288ab5ab7204f3","type":"file","file":"1 NGOẠI/NOTE/ÁP XE HẬU MÔN.md","x":-307,"y":-680,"width":280,"height":60,"color":"1"},
+		{"id":"4757b0e9e9f08593","type":"file","file":"1 NGOẠI/NOTE/HỘI CHỨNG Ứ ĐỌNG DẠ DÀY.md","x":-470,"y":-1200,"width":400,"height":74},
+		{"id":"664ca796e83786a3","type":"text","text":"C7","x":-440,"y":0,"width":250,"height":52,"color":"1"},
+		{"id":"cdb666afef720f19","type":"file","file":"1 NGOẠI/NOTE/THỦNG Ổ LOÉT DẠ DÀY.md","x":-305,"y":-440,"width":400,"height":50},
+		{"id":"9e093fcdb436d68c","type":"file","file":"1 SẢN/Rối loạn đi tiểu sau sanh.md","x":-120,"y":0,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"f73024312aacc29d","fromNode":"3a6cc281fb6cd078","fromSide":"right","toNode":"0c8dd1e5f92fe078","toSide":"left"},
+		{"id":"277c8f3a3cbeec38","fromNode":"3a6cc281fb6cd078","fromSide":"right","toNode":"0c8dd1e5f92fe078","toSide":"left"},
+		{"id":"3bf9607d1b003601","fromNode":"3dc3e0a76ddefb89","fromSide":"right","toNode":"095a626d59bcf095","toSide":"left"},
+		{"id":"ceba65882eaed33c","fromNode":"095a626d59bcf095","fromSide":"right","toNode":"e00797cc29752399","toSide":"left"},
+		{"id":"8cb2c974949b6229","fromNode":"664ca796e83786a3","fromSide":"right","toNode":"c643a0b19f102ee9","toSide":"left"},
+		{"id":"7abdcbc9580d0a3b","fromNode":"664ca796e83786a3","fromSide":"right","toNode":"9e093fcdb436d68c","toSide":"left"},
+		{"id":"4375651c833b5207","fromNode":"664ca796e83786a3","fromSide":"right","toNode":"2b6bd0ee504244a2","toSide":"left"},
+		{"id":"517f374b7d009b12","fromNode":"3dc3e0a76ddefb89","fromSide":"right","toNode":"664ca796e83786a3","toSide":"left"},
+		{"id":"9398c8398a1b1fe7","fromNode":"3a6cc281fb6cd078","fromSide":"right","toNode":"7f137cae7612eef0","toSide":"left"},
+		{"id":"72f86d5e93e1c301","fromNode":"3a6cc281fb6cd078","fromSide":"right","toNode":"cdb666afef720f19","toSide":"left"},
+		{"id":"ca25a2c4d86f96ba","fromNode":"3a6cc281fb6cd078","fromSide":"right","toNode":"07288ab5ab7204f3","toSide":"right","toEnd":"none"},
+		{"id":"078b6875ce13e8b8","fromNode":"3a6cc281fb6cd078","fromSide":"right","toNode":"fc54b4d885e69956","toSide":"left"},
+		{"id":"75dfb3fdfb3735d2","fromNode":"3a6cc281fb6cd078","fromSide":"right","toNode":"4757b0e9e9f08593","toSide":"left"}
+	]
+}

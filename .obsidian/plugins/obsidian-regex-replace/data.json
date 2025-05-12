@@ -1,0 +1,10 @@
+{
+  "findText": "(## Câu \\d+[\\s\\S]*?- D\\..+)",
+  "replaceText": "$1  **Đáp án đã chọn:**   **Đáp án đúng:**    > [!error] Ghi chú   > ...",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}

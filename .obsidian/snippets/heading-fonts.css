@@ -1,0 +1,43 @@
+/* 🔠 Font: Segoe UI Variable cho toàn bộ heading */
+.markdown-preview-view h1, .cm-header-1,
+.markdown-preview-view h2, .cm-header-2,
+.markdown-preview-view h3, .cm-header-3,
+.markdown-preview-view h4, .cm-header-4,
+.markdown-preview-view h5, .cm-header-5,
+.markdown-preview-view h6, .cm-header-6 {
+  font-family: "Segoe UI Variable", "Segoe UI", sans-serif !important;
+  font-variant-ligatures: none;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-decoration: none !important;
+  font-weight: 600;
+}
+
+/* 🎯 Heading 1 – tiêu đề lớn nhất */
+.cm-header-1, .markdown-preview-view h1 {
+  font-size: 1.8rem;
+  color: #C92C2C; /* đỏ đậm */
+}
+
+/* 🟦 Heading 2 – rõ ràng nhưng không chói */
+.cm-header-2, .markdown-preview-view h2 {
+  font-size: 1.4rem;
+  color: #2C5CC9; /* xanh navy nhẹ */
+}
+
+/* 🟩 Heading 3 – trung gian, dùng cho mục phụ */
+.cm-header-3, .markdown-preview-view h3 {
+  font-size: 1.2rem;
+  color: #2C9C5C;
+}
+
+/* 🔘 Heading 4 trở đi – làm mờ dần */
+.cm-header-4, .markdown-preview-view h4 {
+  font-size: 1.05rem;
+  color: #777;
+}
+.cm-header-5, .markdown-preview-view h5,
+.cm-header-6, .markdown-preview-view h6 {
+  font-size: 1rem;
+  color: #999;
+}

@@ -1,0 +1,32 @@
+.callout {
+  border: 1px solid #cfe2ff; /* viền xanh nhạt */
+  border-radius: 6px;
+  background-color: #f8f9fc; /* nền tổng thể nhạt */
+  overflow: hidden;
+  box-shadow: none;
+  padding: 0;
+  margin: 1em 0;
+  font-family: "Segoe UI Variable", "Segoe UI", sans-serif;
+}
+
+.callout-title {
+  background-color: #e7f1ff; /* nền cho phần tiêu đề */
+  padding: 0.75em 1em;
+  font-weight: 600;
+  color: #0b5394; /* xanh navy nhẹ */
+  border-bottom: 1px solid #cfe2ff;
+}
+
+.callout-content {
+  padding: 1em;
+  color: #333;
+}
+
+.callout-content strong {
+  color: #d9534f; /* markdown in đậm */
+}
+
+.callout-content a {
+  color: #8262ff; /* wikilinks */
+  text-decoration: underline;
+}

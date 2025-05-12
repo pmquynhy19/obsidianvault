@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "6bed6125f7698757",
+    "type": "split",
+    "children": [
+      {
+        "id": "3480358ec70ffd1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0426579ef16a06e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAILYNOTE/2025-05-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-12"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b213147446df8ec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34ba5705999091b6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ATTACHMENT/x Sốt rét.pdf",
+                "page": 29,
+                "left": -8,
+                "top": 145,
+                "zoom": 0.9735
+              },
+              "icon": "lucide-file-text",
+              "title": "x Sốt rét"
+            }
+          },
+          {
+            "id": "25dbf8bcc4529b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ÔN TỐT NGHIỆP/0 NHIỄM NGƯỜI LỚN.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "0 NHIỄM NGƯỜI LỚN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e2e07ca9b668f1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e21355ddb0e87fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19ac8587b8a21b1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "50632d3910d072c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#meo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "32c175a57e858816",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "24a4f83985aa8504",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1e46fa351fa3a7b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bade6d07e912e47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70449128f80abf0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NHI/NHIỄM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from NHIỄM"
+            }
+          },
+          {
+            "id": "0b0ed0a33f0f8d13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e25fd229d2089ee4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ÔN TỐT NGHIỆP/SỐT RÉT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SỐT RÉT"
+            }
+          },
+          {
+            "id": "3991476ac36b2d1a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "787b185220947813",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "d38fac1b94a0f521",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MDDKKC_BM Nhiễm.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MDDKKC_BM Nhiễm"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open this week": false
+    }
+  },
+  "active": "34ba5705999091b6",
+  "lastOpenFiles": [
+    "DAILYNOTE/2025-05-12.md",
+    "ÔN TỐT NGHIỆP/SỐT RÉT.md",
+    "ATTACHMENT/x Sốt rét.pdf",
+    "ÔN TỐT NGHIỆP/0 NHIỄM NGƯỜI LỚN.md",
+    "Clippings/Barca hạ Real Madrid 4-3 ở Siêu kinh điển Quyền lực Lamine Yamal.md",
+    "Clippings",
+    "ATTACHMENT/TN nhiem ROI LOAN DA CO QUAN.pdf",
+    "TEMPLATES/tot nghiep protocol.md",
+    "ÔN TỐT NGHIỆP/DẠI.md",
+    "ATTACHMENT/Bệnh dại.pdf",
+    "ATTACHMENT/2 Dại BYT 2014.pdf",
+    "ÔN TỐT NGHIỆP/0 ÔN TỐT NGHIỆP.md",
+    "ÔN TỐT NGHIỆP/0 FILTER.md",
+    "ÔN TỐT NGHIỆP/UỐN VÁN.md",
+    "ATTACHMENT/1 Handout Uốn ván.pdf",
+    "ATTACHMENT/Uốn ván.pdf",
+    "ATTACHMENT/1 Soạn UỐN VÁN.pdf",
+    "ATTACHMENT/1 CBL Uốn ván.pdf",
+    "ATTACHMENT/Pasted image 20250512000336.png",
+    "ÔN TỐT NGHIỆP/test.md",
+    "ÔN TỐT NGHIỆP/0 NHI.md",
+    "DAILYNOTE/2025-05-11.md",
+    "ÔN TỐT NGHIỆP/0 FILTER 1.md",
+    "ÔN TỐT NGHIỆP/0 FILTER 1 1.md",
+    "Đề thi/0 Filter key.md",
+    "TEMPLATES/todo khi đánh đề.md",
+    "1 SẢN/Nhiễm trùng hậu sản.md",
+    "1 SẢN/Vấn đề thường gặp hậu sản.md",
+    "1 SẢN/TNTC.md",
+    "1 SẢN/RUBELLA.md",
+    "Đề thi/0 TODO còn lại.md",
+    "Đề thi/0 TODO đề.md",
+    "GHI_CHU/quantrong/filter file.md",
+    "Đề thi/0 Filter bài có sắp xếp.md",
+    "Đề thi/TN20 L1 007.md",
+    "ATTACHMENT/CHIA-LỊCH-HỌC-TỐT-NGHIỆP 1.pdf",
+    "0 MINDMAP/TỐT NGHIỆP.canvas",
+    "0 MINDMAP/NỘI TRÚ.canvas",
+    "ATTACHMENT/Pasted image 20250510205503.png",
+    "ATTACHMENT/Pasted image 20250510154655.png",
+    "ATTACHMENT/Pasted image 20250510122908.png",
+    "ATTACHMENT/Pasted image 20250510122142.png",
+    "ATTACHMENT/NHI/TAY CHÂN MIỆNG/IMG-20250508013952570.png",
+    "ATTACHMENT/Pasted image 20250506225618.png",
+    "ATTACHMENT/NHIỄM/IMG-20250508002258408.png",
+    "ATTACHMENT/Pasted image 20250506230415.png",
+    "ATTACHMENT/Pasted image 20250506225915.png"
+  ]
+}

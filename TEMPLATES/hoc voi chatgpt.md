@@ -1,0 +1,1 @@
+từ file này hãy tiếp cận theo từng phần. bắt đầu từ phần đầu tiên. -tạo các câu hỏi về định nghĩa, học thuộc. sau đó phần tiếp theo là các tình huống phân độ, phân loại, chẩn đoán phần cuối là điều trị
