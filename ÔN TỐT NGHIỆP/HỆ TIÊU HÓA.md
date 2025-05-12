@@ -46,9 +46,11 @@ slide TN: [[TN nhiem HE TIEU HOA.pdf]]
 > khám dấu mất nước người lớn
 > - có khát nước, mắt trũng, véo da mất chậm... 2/ tổng là có
 > - nặng là li bì, ...
-
-
-![[TN nhiem HE TIEU HOA.pdf#page=7&rect=97,562,515,641&color=red|TN nhiem HE TIEU HOA, p.7]]
+### Điều trị
+#### nước
+* #thuongxuyen 
+  ![[TN nhiem HE TIEU HOA.pdf#page=7&rect=97,562,515,641&color=red|TN nhiem HE TIEU HOA, p.7]]
+#### kháng sinh
 > [!PDF|yellow] [[TN nhiem HE TIEU HOA.pdf#page=8&selection=32,1,39,4&color=yellow|TN nhiem HE TIEU HOA, p.8]]
 >  KS hay sử dụng ở ng lớn: Ciprofloxacin
 
