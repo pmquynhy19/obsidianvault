@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b213147446df8ec7",
+        "id": "98ac73aba410e5f0",
         "type": "tabs",
         "children": [
           {
-            "id": "34ba5705999091b6",
+            "id": "c6b05fa6275c8fb1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ATTACHMENT/x Sốt rét.pdf",
-                "page": 29,
-                "left": -10,
-                "top": 153,
-                "zoom": 1.572
-              },
-              "icon": "lucide-file-text",
-              "title": "x Sốt rét"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -172,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILYNOTE/2025-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-05-12"
+              "title": "Backlinks"
             }
           }
         ],
@@ -190,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,11 +204,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "d38fac1b94a0f521",
+  "active": "c6b05fa6275c8fb1",
   "lastOpenFiles": [
+    "DAILYNOTE/2025-05-12.md",
     "ÔN TỐT NGHIỆP/0 NHIỄM NGƯỜI LỚN.md",
     "ATTACHMENT/x Sốt rét.pdf",
-    "DAILYNOTE/2025-05-12.md",
     "github-clone-test",
     "New folder",
     "ÔN TỐT NGHIỆP/SỐT RÉT.md",
