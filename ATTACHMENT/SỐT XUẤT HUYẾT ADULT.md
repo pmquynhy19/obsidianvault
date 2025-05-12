@@ -15,6 +15,9 @@ byt [[byt 2023 sxh.pdf]]
 > ![[byt 2023 sxh.pdf#page=55&rect=44,101,450,170|byt 2023 sxh, p.55]]
 > ngoài ra còn hct như sơ đồ nữa
 
+> [!NOTE] 15ml đáp ứng thì sao
+> còn 10
+> còn case sốc nặng thì CPT 15 mà ổn thì sang NS 15 chứ chưa chuyển 10 liền
 
 > sốc nặng
 ![[byt 2023 sxh.pdf#page=56&rect=28,301,593,688|byt 2023 sxh, p.56]]

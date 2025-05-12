@@ -19,8 +19,8 @@ chống chỉ định chọc dò?
 > CHỌC DÒ + ĐƯỜNG HUYẾT (cùng lúc chọc dò rất quan trọng)
 
 ![[TN nhiem SOT va HC MANG NAO.pdf#page=5&rect=97,115,519,377&color=yellow|TN nhiem SOT va HC MANG NAO, p.5]]
-
-![[TN nhiem SOT va HC MANG NAO.pdf#page=7&rect=91,515,490,774&color=yellow|TN nhiem SOT va HC MANG NAO, p.7]]
+* #thuongxuyen
+  ![[TN nhiem SOT va HC MANG NAO.pdf#page=7&rect=91,515,490,774&color=yellow|TN nhiem SOT va HC MANG NAO, p.7]]
 # faq
 ![[TN nhiem SOT va HC MANG NAO.pdf#page=7&rect=65,255,527,479&color=yellow|TN nhiem SOT va HC MANG NAO, p.7]]
 

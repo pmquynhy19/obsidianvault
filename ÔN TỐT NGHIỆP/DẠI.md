@@ -23,6 +23,8 @@ trắc nghiệm: [[Bệnh dại.pdf]]
 		- mnemonic vì khó nhớ: meo
 	- thuộc mà vẫn không nhai nỗi = chuyển sang mỗi ngày đều xem: thuongxuyen
 # trước đọc bài: 20/80
+![[Pasted image 20250512145753.png]]
+
 ## 🦠 1. **TÁC NHÂN – CƠ CHẾ**
 
 |Thành phần|Nội dung|
