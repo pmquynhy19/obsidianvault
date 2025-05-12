@@ -14,8 +14,8 @@ slide: [[Bạch hầu.pdf]]
 > tới khàn tiếng là thanh quản rồi
 > ![[Bạch hầu.pdf#page=12&rect=4,51,715,379|Bạch hầu, p.12]]
 
-> [!NOTE] ác tính khi nào
-> ![[Bạch hầu.pdf#page=13&rect=11,23,664,361|Bạch hầu, p.13]]
+* #thuongxuyen 
+  ![[Bạch hầu.pdf#page=13&rect=11,23,664,361|Bạch hầu, p.13]]
 
 
 

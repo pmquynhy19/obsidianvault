@@ -9,8 +9,16 @@ note:
 # nguồn
 trắc nghiệm: [[x Sốt rét.pdf]]
 
-
-
+| HRP2                                        | pLDH toàn loài                                 | 📋 **Kết luận**                                                                     |
+| ------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------- |
+| (+)                                         | (–)                                            | 🦟 **Nhiễm P. falciparum** (có thể không đồng nhiễm)                                |
+| (–)                                         | (+)                                            | 🦟 **Nhiễm không phải P. falciparum** (thường là P. vivax, P. ovale, P. malariae)   |
+| (+)                                         | (+)                                            | 🦟 Có thể là **đồng nhiễm** hoặc **P. falciparum** (test toàn loài dương tính chéo) |
+| (–)                                         | (–)                                            | ✅ **Không phát hiện sốt rét** hoặc nồng độ kháng nguyên thấp (âm giả)               |
+| Marker                                      | Ý nghĩa                                        | Loài phát hiện                                                                      |
+| **HRP2** (Histidine-Rich Protein 2)         | Antigen đặc hiệu của **Plasmodium falciparum** | 👉 Dùng phân biệt sốt rét nặng                                                      |
+| **pLDH** (Plasmodium Lactate Dehydrogenase) | Có ở tất cả loài Plasmodium                    | 👉 Dùng phát hiện sốt rét **không do P. falciparum** hoặc **tất cả loài**           |
+| **Aldolase**                                | Marker toàn loài, ít phổ biến hơn              |                                                                                     |
 
 
 
@@ -39,6 +47,7 @@ trắc nghiệm: [[x Sốt rét.pdf]]
 | **Loài gây bệnh chính tại VN** | 🔹 _P. ==falciparum_== (nặng, kháng thuốc)  <br>🔹 _P. vivax_ (tái phát)  <br>🔹 Hiếm gặp: _P. malariae, P. ovale_ |
 | **Đường lây**                  | Muỗi _Anopheles_ truyền ký sinh trùng từ máu người                                                                 |
 | **Tái phát – Tái nhiễm**       | _P. vivax_ và _P. ovale_ có **giai đoạn ngủ trong gan (hypnozoite)** → tái phát muộn                               |
+<!--SR:!2025-05-15,3,250-->
 
 📌 Miền núi – rừng – biên giới là vùng lưu hành mạnh tại Việt Nam.
 
@@ -51,6 +60,7 @@ trắc nghiệm: [[x Sốt rét.pdf]]
 | **Triệu chứng khởi phát**    | Sốt, ớn lạnh, vã mồ hôi, nhức đầu, đau cơ                                                                                          |
 | **Cơn sốt điển hình**        | - Sốt lạnh – rét run → sốt cao → vã mồ hôi  <br>- Chu kỳ: mỗi **48h** (_P. ==falciparum/vivax_==) hoặc **72h** (_P. ==malariae_==) |
 | **Thể ác tính (falciparum)** | Co giật, lơ mơ, hôn mê, thiếu máu nặng, toan chuyển hóa, tiểu ít, vàng da                                                          |
+<!--SR:!2025-05-15,3,250!2025-05-15,3,250-->
 
 📌 _P. falciparum_ có thể gây **sốt liên tục, không rõ chu kỳ** → dễ nhầm với nhiễm trùng khác.
 
@@ -186,8 +196,9 @@ sốt theo chu kỳ 48 72h
 > [!PDF|yellow] [[TN nhiem ROI LOAN DA CO QUAN.pdf#page=3&selection=36,0,45,1&color=yellow|TN nhiem ROI LOAN DA CO QUAN, p.3]]
 > Lame máu PMNB là tiêu chuẩn vàng 
 
-![[x Sốt rét.pdf#page=2&rect=323,28,419,87&color=important|x Sốt rét, p.2]]
+hình ảnh ==![[x Sốt rét.pdf#page=2&rect=323,28,419,87&color=important|x Sốt rét, p.2]]==
 > **hình liềm**: falci
+<!--SR:!2025-05-15,3,250-->
 
 ## điều trị
 ### p.falci

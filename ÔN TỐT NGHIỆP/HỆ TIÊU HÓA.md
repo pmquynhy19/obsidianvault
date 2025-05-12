@@ -68,7 +68,9 @@ Giardia lamblia
 #### kháng sinh
 > [!PDF|yellow] [[TN nhiem HE TIEU HOA.pdf#page=8&selection=32,1,39,4&color=yellow|TN nhiem HE TIEU HOA, p.8]]
 >  KS hay sử dụng ở ng lớn: Ciprofloxacin
-
+* #thuongxuyen 
+  ![[Pasted image 20250512160113.png]]
+  tốt nghiệp có hỏi, ghi cipro sai
 > [!PDF|yellow] [[TN nhiem HE TIEU HOA.pdf#page=8&selection=82,0,96,3&color=yellow|TN nhiem HE TIEU HOA, p.8]]
 > Đối với người lớn có thai thì ko dùng Cipro mà dùng Azithromycin, hoặc trẻ nhỏ bị cũng dùng Azithromycin
 

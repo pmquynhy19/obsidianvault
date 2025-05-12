@@ -20,7 +20,7 @@ dấu hiệu cảnh báo (432)
 	==hậu quả: li bì, vật vã, + tiểu ít==
 	==cô đặc: hct cao==
 	==cls: tdmp, ast alt, nôn nhiều 3 lần /h==
-	400 3 lần 2cm
+> 400 3 lần 2cm
 # Điều trị
 > SXH đơn thuần không cảnh báo
 1. uống nhiều nước

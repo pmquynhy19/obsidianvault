@@ -40,3 +40,28 @@ bạch cầu ưu thế lympho + đường giảm = lao
 
 ![[Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1.pdf#page=31&rect=49,419,580,518&color=yellow|Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1, p.31]]
 ![[Pasted image 20250512152023.png]]
+![[Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1.pdf#page=31&rect=53,323,571,411&color=yellow|Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1, p.31]]
+![[Bạch hầu.pdf#page=13&rect=11,23,664,361|Bạch hầu, p.13]]
+> sốt cao, đừ, hạch cổ sưng to nữa, họng nhiều giả mạc
+
+![[Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1.pdf#page=31&rect=47,227,563,318&color=yellow|Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1, p.31]]
+![[Pasted image 20250512160113.png]]
+
+![[Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1.pdf#page=31&rect=45,97,568,220&color=yellow|Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1, p.31]]
+
+![[Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1.pdf#page=32&rect=51,688,566,786&color=yellow|Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1, p.32]]
+![[Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1.pdf#page=32&rect=51,568,566,680&color=yellow|Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1, p.32]]
+> Hb < 7
+
+> [!NOTE] ôn lại
+> 12345
+> 100K kst, lactate >2 ,  **>3 crea và bili**, <40 gluco 5 lactate
+
+* #thuongxuyen 
+  ![[Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1.pdf#page=32&rect=54,477,569,559&color=yellow|Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1, p.32]]
+
+![[TN nhiem ROI LOAN DA CO QUAN.pdf#page=12&rect=98,209,467,458|TN nhiem ROI LOAN DA CO QUAN, p.12]]
+hàm há 1cm là khít ?
+
+![[Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1.pdf#page=32&rect=50,395,562,471&color=yellow|Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1, p.32]]
+![[TN nhiem ROI LOAN DA CO QUAN.pdf#page=13&rect=84,139,485,392&color=red|TN nhiem ROI LOAN DA CO QUAN, p.13]]

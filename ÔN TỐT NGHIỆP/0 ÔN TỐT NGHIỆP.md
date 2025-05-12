@@ -21,5 +21,9 @@ dv.table(["Bài", "Ngày học", "Ghi chú"],
 ĐỀ TN
 
 Y16
-* file [[Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1.pdf]]
-* đánh đề: [[TN Nội Y16 1]]
+* [[TN Nội Y16 1]]
+	* file1 [[Đề tốt nghiệp hệ Nội - Y16 (Lần 1) 1.pdf]]
+* [[TN Nội Y16 2]]
+	* file2: [[Tốt-nghiệp-lần-2-hệ-Nội-Y16.pdf]]
+* [[TN Nội Y15]]
+	* file: [[Đề tốt nghiệp hệ Nội - Y15 (Lần 1).pdf]] 
