@@ -1,20 +1,54 @@
+---
+created: 2025-05-11
+note:
+---
 slide TN: [[TN nhiem HE TIEU HOA.pdf]]
+
+* <font color="#ff0000">Protocol</font>
+	- [ ] nhờ chatgpt viết tóm tắt kiến thức cốt lõi cần nhớ 20/80 về bài đó.
+	- [ ] trắc nghiệm có note đáp án
+	- [ ] slide tốt nghiệp + slide gốc
+	- [ ] file obsidian + tag
+- <font color="#7030a0">Hệ thống phân loại tag</font>
+	- ôn lại cuối ngày:
+		- chưa thuộc cần học lại thuoclong
+		- callout về 20% trọng tâm trongtam
+	- ôn tuần trước thi cauhoitungsai
+	- ôn trước thi: 
+		- (những thứ thầy cô nhấn mạnh) thi
+		- mnemonic vì khó nhớ: meo
+	- thuộc mà vẫn không nhai nỗi = chuyển sang mỗi ngày đều xem: thuongxuyen
+# trước đọc bài: 20/80
+
+# PRETEST
 
 # note
 ## tiêu chảy
+### chẩn đoán
 
 > [!PDF|yellow] [[TN nhiem HE TIEU HOA.pdf#page=3&selection=40,3,46,9&color=yellow|TN nhiem HE TIEU HOA, p.3]]
 >  ở trong nội trú chủ yếu là tiêu chảy ko xâm lấn và tiêu chảy xâm lấn
 
-
-> [!PDF|yellow] [[TN nhiem HE TIEU HOA.pdf#page=3&selection=93,9,95,2&color=yellow|TN nhiem HE TIEU HOA, p.3]]
-> là mình nhìn tính chất phân để phân biệt 2 loại này:
-
-
 > [!PDF|red] [[TN nhiem HE TIEU HOA.pdf#page=4&selection=0,2,20,2&color=red|TN nhiem HE TIEU HOA, p.4]]
 > 57. Hệ Tiêu hóa_BM Nhiễm-ThS Nguyễn Quang Trung4TC ko xâm lấn: phân lỏng nước ko nhầy, ko đàm ko máu → soi phân ko có HC BC gì cả.
 
-![[TN nhiem HE TIEU HOA.pdf#page=4&rect=179,474,401,570&color=red|TN nhiem HE TIEU HOA, p.4]]![[TN nhiem HE TIEU HOA.pdf#page=5&rect=83,540,386,666&color=red|TN nhiem HE TIEU HOA, p.5]]![[TN nhiem HE TIEU HOA.pdf#page=7&rect=97,562,515,641&color=red|TN nhiem HE TIEU HOA, p.7]]
+#### 1. không xâm lấn
+> tiêu chảy + chủ yếu là mất nước + không đau bụng
+> - eTec (t ~ tả)
+> - tả
+
+![[TN nhiem HE TIEU HOA.pdf#page=4&rect=179,474,401,570&color=red|TN nhiem HE TIEU HOA, p.4]]
+#### 2. xâm lấn
+> tiêu chảy ít nhưng sốt + đau bụng + xn phân có hc, bc+++ (đại tràng)
+
+![[TN nhiem HE TIEU HOA.pdf#page=5&rect=83,540,386,666&color=red|TN nhiem HE TIEU HOA, p.5]]
+
+> khám dấu mất nước người lớn
+> - có khát nước, mắt trũng, véo da mất chậm... 2/ tổng là có
+> - nặng là li bì, ...
+
+
+![[TN nhiem HE TIEU HOA.pdf#page=7&rect=97,562,515,641&color=red|TN nhiem HE TIEU HOA, p.7]]
 > [!PDF|yellow] [[TN nhiem HE TIEU HOA.pdf#page=8&selection=32,1,39,4&color=yellow|TN nhiem HE TIEU HOA, p.8]]
 >  KS hay sử dụng ở ng lớn: Ciprofloxacin
 

@@ -11,10 +11,37 @@
             "id": "c6b05fa6275c8fb1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ÔN TỐT NGHIỆP/HỆ TIÊU HÓA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "HỆ TIÊU HÓA"
+            }
+          }
+        ]
+      },
+      {
+        "id": "01309751e2bdc9da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc9f391aab585a9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ATTACHMENT/TN nhiem HE TIEU HOA.pdf",
+                "page": 5,
+                "left": -18,
+                "top": 617,
+                "zoom": 0.8168042690294001
+              },
+              "icon": "lucide-file-text",
+              "title": "TN nhiem HE TIEU HOA"
             }
           }
         ]
@@ -49,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#meo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +107,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,6 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ÔN TỐT NGHIỆP/HỆ TIÊU HÓA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for HỆ TIÊU HÓA"
             }
           }
         ],
@@ -206,8 +233,11 @@
   },
   "active": "c6b05fa6275c8fb1",
   "lastOpenFiles": [
-    "DAILYNOTE/2025-05-12.md",
+    "ATTACHMENT/TN nhiem HE TIEU HOA.pdf",
+    "ÔN TỐT NGHIỆP/HỆ TIÊU HÓA.md",
     "ÔN TỐT NGHIỆP/0 NHIỄM NGƯỜI LỚN.md",
+    "ÔN TỐT NGHIỆP/0 ÔN TỐT NGHIỆP.md",
+    "DAILYNOTE/2025-05-12.md",
     "ATTACHMENT/x Sốt rét.pdf",
     "github-clone-test",
     "New folder",
@@ -219,12 +249,10 @@
     "ÔN TỐT NGHIỆP/DẠI.md",
     "ATTACHMENT/Bệnh dại.pdf",
     "ATTACHMENT/2 Dại BYT 2014.pdf",
-    "ÔN TỐT NGHIỆP/0 ÔN TỐT NGHIỆP.md",
     "ÔN TỐT NGHIỆP/0 FILTER.md",
     "ÔN TỐT NGHIỆP/UỐN VÁN.md",
     "ATTACHMENT/1 Handout Uốn ván.pdf",
     "ATTACHMENT/Uốn ván.pdf",
-    "ATTACHMENT/1 Soạn UỐN VÁN.pdf",
     "ATTACHMENT/Pasted image 20250512000336.png",
     "ÔN TỐT NGHIỆP/test.md",
     "ÔN TỐT NGHIỆP/0 NHI.md",
@@ -241,7 +269,6 @@
     "Đề thi/0 TODO đề.md",
     "GHI_CHU/quantrong/filter file.md",
     "Đề thi/0 Filter bài có sắp xếp.md",
-    "Đề thi/TN20 L1 007.md",
     "0 MINDMAP/TỐT NGHIỆP.canvas",
     "0 MINDMAP/NỘI TRÚ.canvas",
     "ATTACHMENT/Pasted image 20250510205503.png",

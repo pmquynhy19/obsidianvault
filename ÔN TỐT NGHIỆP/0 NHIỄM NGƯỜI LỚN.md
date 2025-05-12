@@ -17,7 +17,7 @@ tốt nghiệp ==14 câu==
 		* [[HỆ TIÊU HÓA]]
 	* ==57 Bệnh sốt rét **bệnh dại** uốn ván==
 		* SLIDE: [[TN nhiem ROI LOAN DA CO QUAN.pdf]]
-		* [[SỐT RÉT]]
+		* [[SỐT RÉT]] ✅
 		* [[DẠI]] ✅
 		* [[UỐN VÁN]] ✅
 
